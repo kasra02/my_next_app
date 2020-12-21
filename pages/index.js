@@ -1,7 +1,7 @@
 const Home = () => {
     return (
         <div>
-            salam
+            index
         </div>
     );
 };

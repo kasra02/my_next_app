@@ -4,8 +4,10 @@ import Header from '../component/generic/HEADER'
 
 function MyApp({ Component, pageProps }) {
   return(
-      <Header/>
-      <Component {...pageProps} />
+      <>
+          <Header/>
+          <Component {...pageProps} />
+      <>
   )
 }
 
