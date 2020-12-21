@@ -1,7 +1,7 @@
 const Home = () => {
     return (
         <div>
-          vaghean kar mikonetfgfdasfadsfsdafadsfsadfdsafd
+            salam
         </div>
     );
 };
