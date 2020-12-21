@@ -5,7 +5,7 @@ import Header from '../component/generic/HEADER'
 function MyApp({ Component, pageProps }) {
   return(
       <>
-          <header>headder</header>
+          <header>heafffffdder</header>
           <Component {...pageProps} />
       <>
   )
